@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  soni 
-- 👀 I’m interested in  automation testing and backend development
-- 🌱 I’m currently learning  spring boot and karate 
+- 👀 I’m interested in  backend development
+- 🌱 I’m currently learning  spring boot 
 - 💞️ I’m looking to collaborate on  backend developer
 - 📫 How to reach me  Email ID:soni.floyd@gmail.com
 
