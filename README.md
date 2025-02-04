@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  soni 
-- 👀 I’m interested in  backend development
-- 🌱 I’m currently learning  spring boot 
-- 💞️ I’m looking to collaborate on  backend developer
+- 👀 I’m interested in  Automation
+- 🌱 I’m currently learning  PlayWrite 
+- 💞️ I’m looking to collaborate on  Automation Engineer
 - 📫 How to reach me  Email ID:soni.floyd@gmail.com
 
 <!---
