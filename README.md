@@ -18,5 +18,5 @@
 - Java projects with clean code
 - Interview-oriented test automation examples
 
-📫 **Contact:** your email here  
-💼 **Open to opportunities:** SDET / Automation Engineer / Junior Backend roles
+📫 **Contact:** soni.floyd@gmail.com
+💼 **Open to opportunities:** SDET2 / Automation Engineer 
