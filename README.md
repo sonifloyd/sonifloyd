@@ -1,10 +1,22 @@
-- 👋 Hi, I’m  soni 
-- 👀 I’m interested in  Automation
-- 🌱 I’m currently learning  PlayWrite 
-- 💞️ I’m looking to collaborate on  Automation Engineer
-- 📫 How to reach me  Email ID:soni.floyd@gmail.com
+## Hi 👋 I'm Soni Kumari
 
-<!---
-sonifloyd/sonifloyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Automation Engineer | SDET 2 |  
+🔹 6+ years experience in Manual & Automation Testing  
+  
+
+### 🛠 Tech Stack
+- Java
+- Selenium | Playwright
+- API Automation: Rest Assured, Karate
+- SQL
+- Maven | TestNG | JUnit
+- Git | GitHub
+
+
+### 📌 What you'll find here
+- Automation frameworks (UI + API)
+- Java projects with clean code
+- Interview-oriented test automation examples
+
+📫 **Contact:** your email here  
+💼 **Open to opportunities:** SDET / Automation Engineer / Junior Backend roles
